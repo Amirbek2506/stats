@@ -1,5 +1,5 @@
-module github.com/Amirbek2506/stats
+module github.com/Amirbek2506/stats/v2
 
 go 1.17
 
-require github.com/Amirbek2506/bank v0.0.0-20210920111539-4d29f05273f4 // indirect
+require github.com/Amirbek2506/bank/v2 v2.0.0
